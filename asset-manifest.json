@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/app-hidrocompras/static/css/main.9a68091e.css",
+    "main.css": "/app-hidrocompras/static/css/main.0f1d707b.css",
     "main.js": "/app-hidrocompras/static/js/main.23b2429c.js",
     "static/js/787.a7d7c8b6.chunk.js": "/app-hidrocompras/static/js/787.a7d7c8b6.chunk.js",
     "static/media/phone.png": "/app-hidrocompras/static/media/phone.9137859ffd61f3ef0569.png",
@@ -104,12 +104,12 @@
     "static/media/AQUATHERMAX.png": "/app-hidrocompras/static/media/AQUATHERMAX.e7056f8f87c0e754c2db.png",
     "static/media/PULSAFEEDER-2.png": "/app-hidrocompras/static/media/PULSAFEEDER-2.31e787dcdd36ca323d92.png",
     "index.html": "/app-hidrocompras/index.html",
-    "main.9a68091e.css.map": "/app-hidrocompras/static/css/main.9a68091e.css.map",
+    "main.0f1d707b.css.map": "/app-hidrocompras/static/css/main.0f1d707b.css.map",
     "main.23b2429c.js.map": "/app-hidrocompras/static/js/main.23b2429c.js.map",
     "787.a7d7c8b6.chunk.js.map": "/app-hidrocompras/static/js/787.a7d7c8b6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a68091e.css",
+    "static/css/main.0f1d707b.css",
     "static/js/main.23b2429c.js"
   ]
 }
